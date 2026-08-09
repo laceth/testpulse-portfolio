@@ -26,9 +26,12 @@ The platform is designed for QA, sustaining engineering, support, escalation, pr
 |---|---|
 | VS Code experience | Guided MCP diagnosis, evidence review, baseline comparison, and human approval |
 | React Run Viewer | Interactive timelines, topology, PCAP evidence, component health, and trends |
-| API and CLI | Automation, CI/CD integration, repeatable run analysis, and artifact export |
-| AI appliance | Private inference and sealed adapters on an Acer Veriton GN100 |
-| Managed AI | Policy-approved DeepSeek-R1 reasoning through Amazon Bedrock |
+| REST API | Automation, CI/CD integration, repeatable run analysis, and artifact export |
+| CLI | **Partial — diagnostic command coverage in progress.** Not yet at full contract-field parity with the REST and MCP surfaces (see note below) |
+| AI appliance | Private inference and sealed adapters on dedicated on-premises hardware |
+| Managed AI | Policy-routed managed reasoning |
+
+> **Surface-parity note.** The React, VS Code (MCP), and REST surfaces return the same finding-contract fields for a given run. The **CLI does not yet** — its diagnostic command coverage is still being built out, so full contract-field parity is planned but **not yet implemented**. The CLI row is promoted once that work lands in the code repo.
 
 ## Evidence-First Architecture
 
