@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Tarik Riley, BMI2 AI engineering portfolio: Fiduciary, TestPulse, AIM and A&amp;R">
+  <rect width="1200" height="300" rx="16" fill="#121826"/>
+  <text x="56" y="70" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700" letter-spacing="3" fill="#5ED3C3">BMI2 · AI ENGINEERING PORTFOLIO</text>
+  <text x="56" y="132" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#EEF1F5">Tarik Riley</text>
+  <text x="56" y="176" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#BFC8D6">Governed AI agents, evidence-first diagnostics, and the monitoring that keeps them honest.</text>
+  <text x="56" y="206" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#BFC8D6">Four products, built solo with Claude Code.</text>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#121826">
+    <rect x="56" y="232" width="112" height="34" rx="17" fill="#F6E3C4"/><text x="112" y="255" text-anchor="middle">Fiduciary</text>
+    <rect x="180" y="232" width="118" height="34" rx="17" fill="#D7EFEA"/><text x="239" y="255" text-anchor="middle">TestPulse</text>
+    <rect x="310" y="232" width="74" height="34" rx="17" fill="#D7EFEA"/><text x="347" y="255" text-anchor="middle">AIM</text>
+    <rect x="396" y="232" width="74" height="34" rx="17" fill="#E5E2DA"/><text x="433" y="255" text-anchor="middle">A&amp;R</text>
+  </g>
+</svg>
